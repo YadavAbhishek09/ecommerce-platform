@@ -42,9 +42,6 @@ components/
 ├── ProductForm
 └── SearchBar
 
-services/
-└── productService.js
-
 pages/
 ├── Home
 ├── ProductDetails
